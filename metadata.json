@@ -1,0 +1,5 @@
+{
+  "name": "Cocktail Merge",
+  "description": "A top-down physics-based cocktail merging game inspired by Suika Game. Launch drinks, merge them to reach the Ultimate Drink, and avoid crossing the danger line.",
+  "requestFramePermissions": []
+}
